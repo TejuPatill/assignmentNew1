@@ -19,7 +19,7 @@ import { LocationComponent } from './location/location.component';
     BrowserModule,
     DataTablesModule,
     // AgmCoreModule.forRoot({
-    //   apiKey: 'YOUR-API-KEY-HERE',
+    //   apiKey: 'AIzaSyB0Qcbh5X9g4a1I-zUespoudSVRwHC9RO0',
     //   libraries: ['places']
     // }),
     AppRoutingModule
